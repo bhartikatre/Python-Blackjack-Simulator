@@ -1,0 +1,2 @@
+No third party libraries are used for this simulator.
+This simulator uses 2 inbuilt python module called 'random' and 'os' only.
